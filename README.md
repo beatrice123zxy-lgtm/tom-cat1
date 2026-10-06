@@ -4,7 +4,7 @@
 
 ## 打开网址
 
-**https://beatrice123zxy-lgtm.github.io/tom-cat-website/**
+**https://beatrice123zxy-lgtm.github.io/tom-cat1/**
 
 直接复制上面这行，粘贴到浏览器地址栏打开即可。手机、电脑都可以。
 
